@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ciera's crappy website"
+theme = "ananke"
+publishDir = "docs"
+
