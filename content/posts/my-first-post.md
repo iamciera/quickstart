@@ -8,4 +8,4 @@ This is my first blog.
 
 ## About me
 
-I am awesome. 
+I am awesome. Kinda.
