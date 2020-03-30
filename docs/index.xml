@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ciera&#39;s crappy website</title>
-    <link>http://example.org/</link>
+    <link>https://iamciera.github.io/quickstart/</link>
     <description>Recent content on Ciera&#39;s crappy website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 11:19:11 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iamciera.github.io/quickstart/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://iamciera.github.io/quickstart/posts/my-first-post/</link>
       <pubDate>Mon, 23 Mar 2020 11:19:11 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://iamciera.github.io/quickstart/posts/my-first-post/</guid>
       <description>This is my first blog.
 About me I am awesome. Kinda.</description>
     </item>
